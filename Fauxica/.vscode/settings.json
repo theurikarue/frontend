@@ -1,0 +1,33 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "emmet.showAbbreviationSuggestions":true,
+    "editor.snippetSuggestions": "top",
+    "tailwindCSS.emmetCompletions": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.preferences": {
+        
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "razor": "html",
+        "plaintext": "pug"
+    },
+    
+    "emmet.excludeLanguages": [],
+    "emmet.syntaxProfiles": {
+
+    },
+    "emmet.variables": {
+        "lang": "de",
+        "charset": "UTF-16"
+    },
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "reactSnippets.settings.prettierEnabled": true
+}
